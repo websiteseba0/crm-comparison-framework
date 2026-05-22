@@ -1,6 +1,15 @@
 # CRM Comparison Framework
 Frameworks, templates, and comparison guides for evaluating B2B and B2C CRM platforms, sales CRM software, and small business CRM.
 
+
+Choosing CRM software is difficult because most comparison content is heavily biased or optimized only for affiliate conversions.
+
+This project aims to provide:
+- transparent CRM evaluation frameworks
+- reusable comparison templates
+- practical sales workflow examples
+- implementation-focused CRM research
+
 ---
 
 ## CRM Comparison Categories
